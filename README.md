@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I’m a React.js|Next.js Developer<br>🌱 Interested in React.js , Next.js , PWA<br>💬 Ask me about Web Development
+👩‍💻 I’m a React.js | Next.js Developer<br>🌱 Interested in React.js , Next.js , PWA<br>💬 Ask me about Web Development
 
 
 ## 🌐 Socials:
