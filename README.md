@@ -2,6 +2,9 @@
 🔭 I’m currently working as Frontend web developer<br>👯 I’m looking to collaborate on new Projects<br>🌱 I’m currently learning how to collaborate with other developers<br>💬 Ask me about Next js | React js | Pwa<br>⚡ Interested in web developing
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=aryankholqi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryankholqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kholqi-261480260) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21888423) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aryankholqi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aryankholqi)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryankholqi) 
 
@@ -20,8 +23,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=aryankholqi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
