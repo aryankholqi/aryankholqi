@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Frontend web developer<br>👯 I’m looking to collaborate on new Projects<br>🌱 I’m currently learning how to collaborate with other developers<br>💬 Ask me about Next js | React js | Pwa<br>⚡ Interested in web developing
+🔭 I’m currently working as Frontend web developer<br>🌱 I’m currently learning how to collaborate with other developers<br>💬 Ask me about Next js | React js | Pwa<br>⚡ Interested in web developing
 
 
 ---
